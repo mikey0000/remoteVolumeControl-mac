@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:control server2/control server2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/ma1460/git/control server2/../control client/control client.xcodeproj">
+   </FileRef>
+</Workspace>
